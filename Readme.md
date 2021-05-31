@@ -9,6 +9,7 @@ Desenvolvimento: <br/><br/>
 • Instruções para rodar o projeto (README).  <br/>
 • Componentes reutilizáveis.  <br/>
 • Aplicação responsiva.  <br/>
+• Styled Components.  <br/>
 • Hooks e Contexts.  <br/>
 • ES6.  <br/>
 
